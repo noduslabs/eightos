@@ -122,6 +122,7 @@ and yet changing trajectory: <br />
     the neoliberal state of things; constant search <br />
     for the new, easy excitement, constant anxiety, <br />
     superficiality */<br />
+    
 more on this subject – the book called <br />
 Liquid Modernity <br />
 by agent Bauman<br />
