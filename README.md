@@ -1,3 +1,7 @@
+∞OS
+<br />
+<br />
+
 The action of every agent <br />
      into the world <br />
 starts <br />
@@ -469,3 +473,7 @@ Increase current tendencies in order to bring the system towards controlled depa
    and rapid shift to another level. <br />
    increasing the break. <br />
    punch in response to intention */
+   
+   <br/><br/>
+Creative Commons License:
+Attribution-ShareAlike 4.0 International
