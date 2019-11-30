@@ -688,4 +688,4 @@ Increase current tendencies in order to bring the system towards controlled depa
 ```
    
    
-*Creative Commons License: Attribution-ShareAlike 4.0 International*
+*AGPL License*
