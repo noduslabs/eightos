@@ -41,7 +41,7 @@ Initiation starts with oneself
 
 
 
-## [0] Initial Set&sim;up##
+## [0] Initial Set&sim;up
 
 ```
 It is easy to understand, 
@@ -79,7 +79,7 @@ maintaining a certain degree of
 ```
 
 
-## [1] Neutralization Pre&sim;set##
+## [1] Neutralization Pre&sim;set
 ```
 In order to be fully 
     open and sensitive 
@@ -112,7 +112,7 @@ The state is achieved through
 ```
 
 
-## [2] Metastability Pre&sim;set##
+## [2] Metastability Pre&sim;set
 ```
 Metastable state [M] – ∞ – 
     dynamic non-equilibrium stability: 
@@ -204,7 +204,8 @@ further – continue walking but counting inside (not with the steps), moving th
 ```
 
 
-## [3] Assimilation, En&sim;gagement and In&sim;filtration ##
+## [3] Assimilation, En&sim;gagement and In&sim;filtration 
+
 ```
 After the initial pre&sim;set routine for the internal 
      con&sim;dition has been completed, 
@@ -233,7 +234,7 @@ when there’s an already existing flow
     coming from an external entity.
 ```
 
-##[3.1] En&sim;gaging into an Existing Flow##
+## [3.1] En&sim;gaging into an Existing Flow
 ```
 The first action that needs to be performed 
 in order to start intra&sim;action – en&sim;gagement
@@ -267,7 +268,7 @@ in order to estimate the force
 ```
 
 
-## [3.1.A] Weak Impulse => In&sim;corporation & In&sim;filtration##
+## [3.1.A] Weak Impulse => In&sim;corporation & In&sim;filtration
 ```
 If the incoming impulse is not considered 
    threatening for the structure, 
@@ -303,7 +304,8 @@ see what happens when you resist or push stronger. test the limits.
 ```
 
 
-##[3.1.A.1] Step 1: Redirection Sequence##
+## [3.1.A.1] Step 1: Redirection Sequence
+
 ```
 This sequence uses the already existing 
     impulses, surfaces, 
@@ -345,7 +347,8 @@ take over and give up control.
 ```
 
 
-##[3.1.A.2] Step 2: Dissipation Sequence##
+## [3.1.A.2] Step 2: Dissipation Sequence
+
 ```
 Dissipation sequence can be initiated 
     if re&sim;direction control-shift dynamics 
@@ -363,14 +366,16 @@ Section [3.2] of the manual describes how to identify the points of tension that
 ```
 
 
-##[3.1.B] Mid-Force Impact: Re&sim;configuration Response##
+## [3.1.B] Mid-Force Impact: Re&sim;configuration Response
+
 ```
 Sometimes it happens that somebody says something that you simply cannot answer directly and yet it’s impossible to simply ignore it (in accordance with [3.1.A]) – maybe because we don’t like it, maybe because we cannot agree with it, but don’t want to argue.
 That the type of cases where sequence 
 ```
 
 
-##[3.1.B] Re&sim;configuration can be activated:##
+## [3.1.B] Re&sim;configuration can be activated:
+
 ```
 estrangement, breaking the distance
 when an impulse enters the control zone, 
@@ -414,7 +419,8 @@ To do something not expected.
 ```
 
 
-##[3.1.C] Strong Impact: Regeneration##
+## [3.1.C] Strong Impact: Regeneration
+
 ```
 It may happen that the incoming impact is so strong, 
 that it is impossible to assimilate it into one’s structure     
@@ -460,7 +466,8 @@ To change occupation
 
 
 
-##[3.2] Creating the Flow: Initiation of En&sim;gagement##
+## [3.2] Creating the Flow: Initiation of En&sim;gagement
+
 ```
 Integration into an already existing structure 
 has been loaded into memory through function [3.1]:
@@ -478,7 +485,8 @@ so then they should be created.
 In this case, initiate the following procedure:
 ```
 
-##[3.2.A] Identification of Tension Knots##
+## [3.2.A] Identification of Tension Knots
+
 ```
 Provocation
 /*  from Latin provocare ‘challenge’, from pro- ‘forth’ + vocare ‘to call’ */
@@ -497,7 +505,8 @@ possibilities for further interactions.
 After the pattern is identified, initiate the next procedure 
 ```
 
-##[3.2.B] Progressive Manipulation of Tension Knots##
+## [3.2.B] Progressive Manipulation of Tension Knots
+
 ```
 Examples:
 Two agents meet. One is pulling the other by the hand. The one who is pulled gives in to the movement and lets his body change the form, revealing the points of tension that emerge. 
@@ -510,7 +519,8 @@ To create a need, to generate a lack
 
 
 
-##[3.2.B] Progressive Manipulation of Tension Knots ##
+## [3.2.B] Progressive Manipulation of Tension Knots 
+
 ```
 Performed through applying a series of impulses, 
 destined to shift the center of body&sim;structure 
@@ -561,5 +571,5 @@ Increase current tendencies in order to bring the system towards controlled depa
    punch in response to intention */
 ```
    
-   <br/><br/>
-**Creative Commons License: Attribution-ShareAlike 4.0 International**
+   
+*Creative Commons License: Attribution-ShareAlike 4.0 International*
