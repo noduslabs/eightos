@@ -1,7 +1,9 @@
-#### EightOS, Basic Procedures ####
+## EightOS, Basic Procedures ####
 ### Human-Readable Form ###
 <br />
 <br />
+The code-words below is the introduction to the basic procedures of EightOS. More source code — textual, visual, auditory, kinaesthetic — can be found on [www.8os.io](https://8os.io)
+
 ```
 The action of every person <br />
      into the world <br />
