@@ -2,7 +2,10 @@
 ### Human-Readable Form ###
 
 
-The code-words below is the introduction to the basic procedures of EightOS. More source code — textual, visual, auditory, kinaesthetic — can be found on www.8os.io
+The code-words below is the introduction to the basic procedures of EightOS. More source code — textual, visual, auditory, kinaesthetic — can be found on www.8os.io.
+
+The visualizations of the procedures described below made using the body can be found on www.8os.io/procedures/
+
 
 ```
 The action of every person 
