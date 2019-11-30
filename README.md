@@ -1,16 +1,19 @@
-∞OS
+#### EightOS, Basic Procedures ####
+### Human-Readable Form ###
 <br />
 <br />
-
-The action of every agent <br />
+```
+The action of every person <br />
      into the world <br />
 starts <br />
     from their physical selves. <br />
+```
 <br />
+```
 This section is comprised of the <br />
     settings<br />
     and implementation sequences<br />
-based on ∞OS operating system<br />
+based on the EightOS operating system<br />
 to render one <br />
     fully prepared <br />
 to intra&sim;act <br />
@@ -18,20 +21,28 @@ to intra&sim;act <br />
     with oneself, <br />
     with each and every one, <br />
     and with the totality.<br />
+```
 <br />
+```
 We start from the right pre&sim;sets<br />
     // bodymind dynamic form, <br />
     followed by techniques <br />
     of encounter and adaptation.<br />
+```
 <br />
+```
 Initiation starts with oneself <br />
     and then proceeds <br />
         to the social level. <br />
+```
 <br />
 <br />
 <br />
-[0] Initial Set&sim;up<br />
-A special agent understands, <br />
+
+## [0] Initial Set&sim;up##
+<br />
+```
+It is easy to understand, <br />
     that it is impossible to live <br />
 without getting affected or hit.<br />
     // in one way or another<br />
@@ -63,8 +74,11 @@ maintaining a certain degree of <br />
     attentivity  // at&sim;tention<br />
     sensitivity, resilience,  <br />
     fluency, flexibility // fluidity<br />
+```
 <br />
-[1] Neutralization Pre&sim;set<br />
+
+## [1] Neutralization Pre&sim;set<br />##
+```
 In order to be fully <br />
     open and sensitive <br />
 and to increase the adaptive capacities <br />
@@ -93,8 +107,11 @@ The state is achieved through <br />
                 from top to bottom, from bottom to top,<br />
         aligning each part of the body <br />
                 along the vertical axis of gravity / spine.<br />
+```
 <br />
-[2] Metastability Pre&sim;set<br />
+
+## [2] Metastability Pre&sim;set<br />##
+```
 Metastable state [M] – ∞ – <br />
     dynamic non-equilibrium stability: <br />
         stability is maintained <br />
@@ -108,8 +125,12 @@ Metastable state [M] – ∞ – <br />
 To increase adaptative capacities,  <br />
     it is recommended to set the system <br />
          into Metastable state [M]<br />
+```
 ￼<br />
+```
 // in order to be prepared<br />
+```
+```
 Special agents do not patiently suffer, <br />
     nor do they live in their comfort zone [S].<br />
 Special agent can only rest, <br />
@@ -126,14 +147,19 @@ and yet changing trajectory: <br />
     the neoliberal state of things; constant search <br />
     for the new, easy excitement, constant anxiety, <br />
     superficiality */<br />
-    
+```
+```    
 more on this subject – the book called <br />
 Liquid Modernity <br />
 by agent Bauman<br />
 <br />
 www.transnomia.com<br />
+```
 <br />
+```
 #fluidity #fluency #relaxation #connectedness<br />
+```
+```
 In order to achieve metastable state&sim;form, <br />
     and maximize their adaptive capacities <br />
 the agents should establish <br />
@@ -144,11 +170,15 @@ Those parallel processes <br />
 and can bring the system back <br />
     to the state of non-equilibrium stablity <br />
 when one of the processes goes astray. <br />
+```
 ￼<br />
 <br />
+```
 we can relate this to the notion of homeostasis – small deviations from stability are regulated through various substances released to bring it to the stable state. if the deviations are too big, the organism shifts to a new state.<br />
+```
 <br />
 <br />
+```
 The following preset combination is recommended <br />
      to achieve metastable state:   <br />
 set your attention to the area of your nutro 2 cm below navel<br />
@@ -161,15 +191,19 @@ set internal rotation following ∞ trajectory (horizontal 8), in the area of nu
 (part of trajectory inhale, part – exhale)<br />
 /* for example: right forward, right backwards, <br />
     left forward, left backwards, right forward, etc. */<br />
+```
 <br />
 ￼<br />
+```
 pendulum breathing and movement: <br />
 phases of movement are in sync with the phases of breathing (the breathing rhythm is leading the movement)<br />
 breathing in motion – in order to increase elasticity of breathing and nervous system: inhale on 1 step, exhale on 1 step (inhaling through nose, exhaling through mouth). inhale on 2 steps, exhaling on 2 steps... and so on until 10, then “de-escalate” down to 1. <br />
 further – continue walking but counting inside (not with the steps), moving the speed and velocity of your movement, stopping sometimes, making sure the breathing rate stays the same (2-3 counts inhale, 2-3 counts exhale)<br />
+```
 <br />
 <br />
-[3] Assimilation, En&sim;gagement and In&sim;filtration <br />
+## [3] Assimilation, En&sim;gagement and In&sim;filtration ##<br />
+```
 After the initial pre&sim;set routine for the internal <br />
      con&sim;dition has been completed, <br />
 the agent moves on to active intra&sim;action <br />
@@ -185,7 +219,9 @@ however, together you form a unity <br />
 the resulting assemblage is <br />
     what the agent is working with.<br />
 // not “you” and “me” but “us together”<br />
+```
 ￼<br />
+```
 The in&sim;tention and at&sim;tention are directed<br />
 to the common mass&sim;center of the structure.<br />
 Intra&sim;action <br />
@@ -193,20 +229,28 @@ The strategy of en&sim;gagement, demonstrated below, <br />
     shows what has to be done <br />
 when there’s an already existing flow <br />
     coming from an external entity.<br />
+```
 <br />
-[3.1] En&sim;gaging into an Existing Flow<br />
+##[3.1] En&sim;gaging into an Existing Flow<br />##
+```
 The first action that needs to be performed <br />
 in order to start intra&sim;action – en&sim;gagement<br />
 // en – in, gage – pledge oneself (to do something’)<br />
 En&sim;gagement implies the existence of an external flow <br />
    that one can integrate into.<br />
 // Surfing<br />
+```
 ￼<br />
+```
 Two strategies of engagement are recommended <br />
 when there’s an external impulse, <br />
 which cannot be avoided<br />
+```
+```
 to minimize the impact and to return the system to its initial state<br />
 to follow the impulse and to use its force to bring the system to a new state<br />
+```
+```
 In order to choose the right strategy, it is necessary to estimate the incoming force <br />
 using experiential approach.<br />
 // in order to gauge its intensity<br />
@@ -218,8 +262,11 @@ the first seconds of acceleration <br />
 // that can also be used in business and politics<br />
 in order to estimate the force <br />
    of incoming impulse.<br />
+```
+
 <br />
-[3.1.A] Weak Impulse => In&sim;corporation & In&sim;filtration<br />
+## [3.1.A] Weak Impulse => In&sim;corporation & In&sim;filtration<br />##
+```
 If the incoming impulse is not considered <br />
    threatening for the structure, <br />
 it is possible to in&sim;corporate it <br />
@@ -251,9 +298,11 @@ re&sim;ceive, re&sim;adjust, re&sim;direct, respond<br />
 change roles, let your partner win and lose <br />
 play with the dynamics of transferring control<br />
 see what happens when you resist or push stronger. test the limits.<br />
+```
 <br />
 <br />
-[3.1.A.1] Step 1: Redirection Sequence<br />
+##[3.1.A.1] Step 1: Redirection Sequence<br />##
+```
 This sequence uses the already existing <br />
     impulses, surfaces, <br />
 and slides across them, rather than against them, <br />
@@ -270,7 +319,9 @@ one is pushing the other, the other is adapting their bodyform, to make the push
   2. in&sim;corporate this impulse<br />
   3. accelerate the flow<br />
   // similar to how it’s done in surfing.<br />
+```
 <br />
+```
 This is how it is possible to capture <br />
     the body of the agent <br />
 and to control it.<br />
@@ -279,7 +330,9 @@ A moment of passing control of the center<br />
 // tango, wrestling, body manipulation<br />
 Saying “yes, and” instead of “no, but”<br />
 To agree to everything, and to then open up new spaces for weaving the thought-threads:<br />
+```
 <br />
+```
 Continue the common movement <br />
 to find a new bodyformstructure<br />
 Take your partner by their wrist and <br />
@@ -287,8 +340,11 @@ start controlling their motion; <br />
     change roles;<br />
          constantly change roles, <br />
 take over and give up control.<br />
+```
 <br />
-[3.1.A.2] Step 2: Dissipation Sequence<br />
+
+##[3.1.A.2] Step 2: Dissipation Sequence<br />##
+```
 Dissipation sequence can be initiated <br />
     if re&sim;direction control-shift dynamics <br />
 has to be completed. <br />
@@ -302,11 +358,18 @@ to various points of tension <br />
     in bodyform structure.<br />
 // post-truth, fake news<br />
 Section [3.2] of the manual describes how to identify the points of tension that should be affected. Further sequences are provided in section [4] of the manual.<br />
+```
 <br />
-[3.1.B] Mid-Force Impact: Re&sim;configuration Response<br />
+
+##[3.1.B] Mid-Force Impact: Re&sim;configuration Response<br />##
+```
 Sometimes it happens that somebody says something that you simply cannot answer directly and yet it’s impossible to simply ignore it (in accordance with [3.1.A]) – maybe because we don’t like it, maybe because we cannot agree with it, but don’t want to argue.<br />
 That the type of cases where sequence <br />
-[3.1.B] Re&sim;configuration can be activated:<br />
+```
+<br />
+
+##[3.1.B] Re&sim;configuration can be activated:<br />##
+```
 estrangement, breaking the distance<br />
 when an impulse enters the control zone, <br />
 leave the position, <br />
@@ -324,13 +387,17 @@ fiooi adsffda ioi fdaioi a oidfas ioooam,<br />
     qpwoonz oiiozi  oioi 121 iozczio <br />
 Asdf gh jkl; qwerty uiop zcvx bn you.<br />
 You. I love you. I love you very much.<br />
+```
 <br />
 <br />
+```
 _____________<br />
 _____________<br />
 _____________<br />
+```
 <br />
 <br />
+```
 In the context of physical contact <br />
 re&sim;configuration is implemented <br />
 using the following procedure: <br />
@@ -342,9 +409,11 @@ To start shaking uncontrollably <br />
 To transform into your totem animal<br />
 From predator into prey<br />
 To do something not expected.<br />
+```
 <br />
 <br />
-[3.1.C] Strong Impact: Regeneration<br />
+##[3.1.C] Strong Impact: Regeneration<br />##
+```
 It may happen that the incoming impact is so strong, <br />
 that it is impossible to assimilate it into one’s structure     <br />
   without breaking it. <br />
@@ -385,9 +454,12 @@ To play Tetris <br />
     moving the tension<br />
          around the body<br />
 To change occupation<br />
+```
 <br />
 <br />
-[3.2] Creating the Flow: Initiation of En&sim;gagement<br />
+
+##[3.2] Creating the Flow: Initiation of En&sim;gagement<br />##
+```
 Integration into an already existing structure <br />
 has been loaded into memory through function [3.1]:<br />
     to support a conversation,  <br />
@@ -402,8 +474,10 @@ no in&sim;fluences, no pro&sim;vocations, <br />
 so then they should be created. <br />
 // creativity, inventing new stuff<br />
 In this case, initiate the following procedure:<br />
+```
 <br />
-[3.2.A] Identification of Tension Knots<br />
+##[3.2.A] Identification of Tension Knots<br />##
+```
 Provocation<br />
 /*  from Latin provocare ‘challenge’, from pro- ‘forth’ + vocare ‘to call’ */<br />
 This is done through im&sim;planting a light im&sim;pulse, <br />
@@ -419,7 +493,10 @@ tensions knots <br />
 // usually linked to fears - fear of in&sim;stability <br />
 possibilities for further interactions. <br />
 After the pattern is identified, initiate the next procedure <br />
-[3.2.B] Progressive Manipulation of Tension Knots<br />
+```
+
+##[3.2.B] Progressive Manipulation of Tension Knots<br />##
+```
 Examples:<br />
 Two agents meet. One is pulling the other by the hand. The one who is pulled gives in to the movement and lets his body change the form, revealing the points of tension that emerge. <br />
 To say something pleasantly-unpleasant<br />
@@ -427,9 +504,12 @@ To say something pleasantly-unpleasant<br />
 “you look not as tired today as usual” */<br />
 Put low frequencies to the maximum<br />
 To create a need, to generate a lack<br />
+```
 <br />
 <br />
-[3.2.B] Progressive Manipulation of Tension Knots <br />
+
+##[3.2.B] Progressive Manipulation of Tension Knots <br />##
+```
 Performed through applying a series of impulses, <br />
 destined to shift the center of body&sim;structure <br />
 affecting it in a subsequential way <br />
@@ -444,6 +524,8 @@ so that others can be at ease as well. <br />
 so that it’s interesting for the others<br />
 // self-development, evolution, self-realization<br />
 As shown above, the flow can be redirected within a dynamic intra&sim;active system, which operates in a symmetric or complimentary feedback loop [3.1.A].<br />
+```
+```
 The feedback loop may destroy itself, if its tendecy towards escalation is allowed take hold. <br />
 Constantly shifting the roles, controlling dynamics the agent minimizes the risks and maintains stability. (remaining within the square of the context).<br />
 If there is a need to change the direction of the flow, <br />
@@ -452,8 +534,10 @@ then it is necessary to affect the current state <br />
     by way of a certain intentionality <br />
 a clear direction, through successive impulses    <br />
     which prompt the system to leave the comfort zone and to find a new one.<br />
+```
 <br />
 <br />
+```
 In order to shift a system to a new state, the current balance has to be disturbed, so that it’s easier for the system to go through changes. <br />
 The current feedback loop that maintains stability can be accelerated in order to overload the system and induce a shift to a new state.<br />
 Start from studing the dynamics of interaction: the agents are activating each other and transfer impulses back and forth.<br />
@@ -473,7 +557,7 @@ Increase current tendencies in order to bring the system towards controlled depa
    and rapid shift to another level. <br />
    increasing the break. <br />
    punch in response to intention */
+```
    
    <br/><br/>
-Creative Commons License:
-Attribution-ShareAlike 4.0 International
+**Creative Commons License: Attribution-ShareAlike 4.0 International**
