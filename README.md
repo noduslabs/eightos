@@ -21,7 +21,7 @@ This section is comprised of the
 based on the EightOS operating system
 to render one 
     fully prepared 
-to intra&sim;act 
+to intra~act 
     with the Other,
     with oneself, 
     with each and every one, 
@@ -29,7 +29,7 @@ to intra&sim;act
 ```
 
 ```
-We start from the right pre&sim;sets
+We start from the right pre~sets
     // bodymind dynamic form, 
     followed by techniques 
     of encounter and adaptation.
@@ -44,7 +44,7 @@ Initiation starts with oneself
 
 
 
-## [0] Initial Set&sim;up
+## [0] Initial Set~up
 
 ```
 It is easy to understand, 
@@ -71,8 +71,8 @@ One may not want to be a mutant.
 One may just want to be 
     closer to themselves, 
     but their experience of themselves 
-    is ready for trans&sim;formations 
-        and trance&sim;formations.
+    is ready for trans~formations 
+        and trance~formations.
 
 Therefore, 
     it is important to know 
@@ -81,15 +81,15 @@ how to receive the external shock
 maintaining a certain degree of 
 
     relaxation,  // tension only where it is needed 
-    state&sim;form con&sim;dition 
+    state~form con~dition 
     // condicere ‘agree upon’, agreement between parts
-    attentivity  // at&sim;tention
+    attentivity  // at~tention
     sensitivity, resilience,  
     fluency, flexibility // fluidity
 ```
 
 
-## [1] Neutralization Pre&sim;set
+## [1] Neutralization Pre~set
 ```
 In order to be fully 
     open and sensitive 
@@ -108,14 +108,14 @@ any habitual tensions
 should be set to minimum 
     and even better to zero.
 
-// symmetry of the bodymind state&sim;form con&sim;dition
+// symmetry of the bodymind state~form con~dition
 
 there is only 
     here, 
     now, and 
     the force of gravity.
-everything else is non&sim;existent.
-    #con&sim;dition #sensitivity #align&sim;ment
+everything else is non~existent.
+    #con~dition #sensitivity #align~ment
 
 // sensation of hanging from upside down
 
@@ -132,18 +132,18 @@ The state is achieved through
 ```
 
 
-## [2] Metastability Pre&sim;set
+## [2] Metastability Pre~set
 ```
 Metastable state [M] – ∞ – 
     dynamic non-equilibrium stability: 
         stability is maintained 
-              while dis&sim;turbances are relatively small.
+              while dis~turbances are relatively small.
 
 /* unstable transitionary state [T] – stability is disrupted 
-    even when the dis&sim;turbances are relatively small – 
+    even when the dis~turbances are relatively small – 
     nervousness, fear, aggression, exciteability
     stable state [S] – stability is maintained 
-    even when the dis&sim;turbances are relatively big – 
+    even when the dis~turbances are relatively big – 
     stubbornness, laziness, rigidity, comfort */
 
 To increase adaptative capacities,  
@@ -185,11 +185,11 @@ www.transnomia.com
 #fluidity #fluency #relaxation #connectedness
 ```
 ```
-In order to achieve metastable state&sim;form, 
+In order to achieve metastable state~form, 
     and maximize their adaptive capacities 
 
 the agents should establish 
-    several interacting rhythm&sim;loops 
+    several interacting rhythm~loops 
     in their body/form 
 
 Those parallel processes 
@@ -230,7 +230,7 @@ imagine a wave that is
 connect the breathing rhythm 
     to internal count and movement 
         (for example, steps or heartbeat) 
-        for internal phase&sim;beat synchronization
+        for internal phase~beat synchronization
 ￼
 set internal rotation following 
     ∞ trajectory (horizontal 8), 
@@ -251,17 +251,17 @@ further – continue walking but counting inside (not with the steps), moving th
 ```
 
 
-## [3] Assimilation, En&sim;gagement and In&sim;filtration 
+## [3] Assimilation, En~gagement and In~filtration 
 
 ```
-After the initial pre&sim;set routine for the internal 
-     con&sim;dition has been completed, 
-the agent moves on to active intra&sim;action 
+After the initial pre~set routine for the internal 
+     con~dition has been completed, 
+the agent moves on to active intra~action 
     with the environment, medium, and external impulses.
-#intra&sim;action #multiplicity #adaptation
+#intra~action #multiplicity #adaptation
 
-Any inter&sim;action is perceived as 
-    an intra&sim;action – something that is in between, 
+Any inter~action is perceived as 
+    an intra~action – something that is in between, 
     creating a new system entity // rather than 2 parts
 
 When dealing with an external entity 
@@ -275,24 +275,24 @@ the resulting assemblage is
 ```
 ￼
 ```
-The in&sim;tention and at&sim;tention are directed
-to the common mass&sim;center of the structure.
-Intra&sim;action 
+The in~tention and at~tention are directed
+to the common mass~center of the structure.
+Intra~action 
 
-The strategy of en&sim;gagement, demonstrated below, 
+The strategy of en~gagement, demonstrated below, 
     shows what has to be done 
 when there’s an already existing flow 
     coming from an external entity.
 ```
 
-## [3.1] En&sim;gaging into an Existing Flow
+## [3.1] En~gaging into an Existing Flow
 ```
 The first action that needs to be performed 
-in order to start intra&sim;action – en&sim;gagement
+in order to start intra~action – en~gagement
 
 // en – in, gage – pledge oneself (to do something’)
 
-En&sim;gagement implies the existence of an external flow 
+En~gagement implies the existence of an external flow 
    that one can integrate into.
 
 // Surfing
@@ -316,10 +316,10 @@ using experiential approach.
 // in order to gauge its intensity
 
 That means that any incoming impulse  
-    is always em&sim;braced, 
+    is always em~braced, 
         without any opposing tension, 
     the first seconds of acceleration 
-        are in&sim;corporated 
+        are in~corporated 
 
 // that can also be used in business and politics
 
@@ -328,28 +328,28 @@ That means that any incoming impulse
 ```
 
 
-## [3.1.A] Weak Impulse => In&sim;corporation & In&sim;filtration
+## [3.1.A] Weak Impulse => In~corporation & In~filtration
 ```
 If the incoming impulse is not considered 
    threatening for the structure, 
 
-it is possible to in&sim;corporate it 
+it is possible to in~corporate it 
 
 // let it enter into the bodymind 
 
-and to em&sim;brace it, 
+and to em~brace it, 
    using the following sequence:
-non&sim;tension towards incoming tension 
+non~tension towards incoming tension 
 
 /* there is no use in responding to force with a force that is opposing */
 
 accepting direction of the incoming impulse 
-    ad&sim;justing the bodymind form&sim;structure 
+    ad~justing the bodymind form~structure 
 to the incoming impulse 
 
 /* for instance: creating the same momentum as the speed of incoming movement */
 
-acceptance, em&sim;brace, and absorption 
+acceptance, em~brace, and absorption 
 
 letting it pass through
 
@@ -358,22 +358,22 @@ letting it pass through
 taking it with you
 
 As a result of the action performed above 
-   agent’s bodymind&sim;form will be slightly affected 
+   agent’s bodymind~form will be slightly affected 
    temporarily adjusting its current state 
 
 but only 
    to later embed itself 
-into the common form&sim;unity
+into the common form~unity
 
    taking control of the mass-center.
 
 the agents stand opposite of each other, 
 one pushes the other into different parts of the bodymind structure
-the one who is being pushed is in&sim;corporating the incoming impulses into their bodymind structure (eyes can be closed to improve experiential estimation), 
+the one who is being pushed is in~corporating the incoming impulses into their bodymind structure (eyes can be closed to improve experiential estimation), 
 
-they do so by temporarily ad&sim;justing their body structure to accommodate the incoming impulse, and then coming back to the original state.
+they do so by temporarily ad~justing their body structure to accommodate the incoming impulse, and then coming back to the original state.
 
-re&sim;ceive, re&sim;adjust, re&sim;direct, respond
+re~ceive, re~adjust, re~direct, respond
 change roles, let your partner win and lose 
 play with the dynamics of transferring control
 see what happens when you resist or push stronger. test the limits.
@@ -400,7 +400,7 @@ Working with a partner: the agents are walking and breathing, pushing each other
 Variation: two agents are sitting: 
 one is pushing the other, the other is adapting their bodyform, to make the pusher “fall” into their movement and desire:
   1. catch the incoming impulse momentum
-  2. in&sim;corporate this impulse
+  2. in~corporate this impulse
   3. accelerate the flow
   // similar to how it’s done in surfing.
 ```
@@ -437,7 +437,7 @@ take over and give up control.
 
 ```
 Dissipation sequence can be initiated 
-    if re&sim;direction control-shift dynamics 
+    if re~direction control-shift dynamics 
 has to be completed. 
 
 In order to prevent the dynamics 
@@ -445,7 +445,7 @@ In order to prevent the dynamics
 to bring the movement within a system 
     towards an end:
 
-Apply consequential contra&sim;dictory impulses
+Apply consequential contra~dictory impulses
     (2, 3 and more)
 to various points of tension 
     in bodyform structure.
@@ -454,7 +454,7 @@ Section [3.2] of the manual describes how to identify the points of tension that
 ```
 
 
-## [3.1.B] Mid-Force Impact: Re&sim;configuration Response
+## [3.1.B] Mid-Force Impact: Re~configuration Response
 
 ```
 Sometimes it happens that somebody says something that you simply cannot answer directly and yet it’s impossible to simply ignore it (in accordance with [3.1.A]) – maybe because we don’t like it, maybe because we cannot agree with it, but don’t want to argue.
@@ -462,7 +462,7 @@ That the type of cases where sequence
 ```
 
 
-## [3.1.B] Re&sim;configuration can be activated:
+## [3.1.B] Re~configuration can be activated:
 
 ```
 estrangement, breaking the distance
@@ -495,7 +495,7 @@ _____________
 
 ```
 In the context of physical contact 
-re&sim;configuration is implemented 
+re~configuration is implemented 
 using the following procedure: 
 Quick jump sideways backwards
 
@@ -536,11 +536,11 @@ inhale (through the nose, into the stomach)
 exhale (through the mouth)
 throw down all tension, 
 send ripple waves
-    through the whole bodymind form&sim;structure 
+    through the whole bodymind form~structure 
 
 Take a pushup position, 
 lower oneself to the floor, 
-keeping the body&sim;form, shift tension 
+keeping the body~form, shift tension 
 around different parts of the body
 + burst breathing
 During a difficult conversation, 
@@ -565,7 +565,7 @@ To change occupation
 
 
 
-## [3.2] Creating the Flow: Initiation of En&sim;gagement
+## [3.2] Creating the Flow: Initiation of En~gagement
 
 ```
 Integration into an already existing structure 
@@ -578,7 +578,7 @@ has been loaded into memory through function [3.1]:
 
 However (yes, and), sometimes there are situations 
     when there are no perturbations in the environment 
-no in&sim;fluences, no pro&sim;vocations, 
+no in~fluences, no pro~vocations, 
     and, therefore, no waves 
 so then they should be created. 
 // creativity, inventing new stuff
@@ -592,11 +592,11 @@ Provocation
 
 /*  from Latin provocare ‘challenge’, from pro- ‘forth’ + vocare ‘to call’ */
 
-This is done through im&sim;planting a light im&sim;pulse, 
-in order to excite the external body&sim;structure 
+This is done through im~planting a light im~pulse, 
+in order to excite the external body~structure 
 for it to reveal the tension knots  
 that are used to maintain its original shape.
-This initial impulse is made to pro&sim;voke. 
+This initial impulse is made to pro~voke. 
 
 The external structure reveals 
     its strong parts and weak parts 
@@ -604,7 +604,7 @@ crossroads of meaning,
 important junctions and nodes, 
 tensions knots 
 
-// usually linked to fears - fear of in&sim;stability 
+// usually linked to fears - fear of in~stability 
 
 possibilities for further interactions. 
 After the pattern is identified, initiate the next procedure 
@@ -628,7 +628,7 @@ To create a need, to generate a lack
 
 ```
 Performed through applying a series of impulses, 
-destined to shift the center of body&sim;structure 
+destined to shift the center of body~structure 
 affecting it in a subsequential way 
 using the points of tension identified earlier.
 
@@ -640,7 +640,7 @@ using the points of tension identified earlier.
 An agent has two objectives: 
     1. To be at ease with oneself – 
 
-// com&sim;fort – from Latin “fortis” for “strong” 
+// com~fort – from Latin “fortis” for “strong” 
 
     so that others can be at ease as well. 
     
@@ -649,7 +649,7 @@ An agent has two objectives:
 so that it’s interesting for the others
 // self-development, evolution, self-realization
 
-As shown above, the flow can be redirected within a dynamic intra&sim;active system, which operates in a symmetric or complimentary feedback loop [3.1.A].
+As shown above, the flow can be redirected within a dynamic intra~active system, which operates in a symmetric or complimentary feedback loop [3.1.A].
 ```
 
 ```
@@ -675,7 +675,7 @@ The resulting dybamics will be a mix of symmetric and complimentary schismogenes
    leading to its imminent collapse */ 
 E.g. In case of a symmetric loop – when an incoming impulse increases its force, do not respond with even more force (expected response), but weaken the impact to provoke the system towards de-escalation (unexpected) // losing [L]
 In case of a complimentary loop – when the incoming force increases, do not weaken the response, but respond with even more force // winning [W], 
-Chaotic itinerancy is activated: LLWLWLLLWLWLLWWLLWWW. It helps the system of intra&sim;action to keep its self-destructive tendencies in check. Deescalation. 
+Chaotic itinerancy is activated: LLWLWLLLWLWLLWWLLWWW. It helps the system of intra~action to keep its self-destructive tendencies in check. Deescalation. 
 The procedures above help keep the system stable. In order to shift to a new stable state, short circuit can be created. 
 Rapid shift of coordinates 
 // unexpected, assimetric response
